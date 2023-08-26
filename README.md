@@ -3,7 +3,7 @@
 
 - Actualmente trabajando en [ANSES](http://www.anses.gov.ar)
 
-- 🌱Actualmente soy Full Stack Developer
+- soy Full Stack Developer
 
 - 📫Mi Email **emiliogril@gmail.com**
 
